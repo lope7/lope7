@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lope7&show_icons=true&locale=en" alt="lope7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lope7&" alt="lope7" /></p>
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
