@@ -2,13 +2,11 @@
 <h3 align="center">developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lope7&label=Profile%20views&color=0e75b6&style=flat" alt="lope7" /> </p>
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/lope7?tab=repositories](https://github.com/lope7?tab=repositories)
 
 - 📫 How to reach me **martinezalcala@hotmail.com**
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
