@@ -29,7 +29,7 @@
 <h3 align="left">Tools:</h3>
 </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> &nbsp; </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;  </a> <a href="https://www.w3.org/html/" target="_blank"><a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lope7&show_icons=true&locale=en&layout=compact" alt="lope7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lope7&show_icons=true&locale=en&layout=compact" alt="lope7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lope7&show_icons=true&locale=en" alt="lope7" /></p>
 
