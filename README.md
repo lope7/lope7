@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lope7&label=Profile%20views&color=0e75b6&style=flat" alt="lope7" /> </p>
 
 
-- 💻 All of my projects are available at <a href="[https://github.com/lope7?tab=repositories](https://github.com/lope7?tab=repositories)">Click here</a>
+- 💻 All of my projects are available at <a href="https://github.com/lope7?tab=repositories">Click here</a>
 
 - ✉️ How to reach me **martinezalcala@hotmail.com**    
 
