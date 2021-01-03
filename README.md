@@ -4,10 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lope7&label=Profile%20views&color=0e75b6&style=flat" alt="lope7" /> </p>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css">
 
 - 💻 All of my projects and repositories are available at <strong><a href="https://github.com/lope7?tab=repositories">click here!</a></strong>
 
 - ✉️ How to reach me **martinezalcala@hotmail.com**    
+<i class="devicon-java-plain-wordmark colored"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
