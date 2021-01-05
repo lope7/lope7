@@ -70,6 +70,6 @@
 </a>
 </br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lope7&" alt="lope7" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lope7&" alt="lope7" />
 </a>
 
