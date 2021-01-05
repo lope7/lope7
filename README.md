@@ -38,6 +38,8 @@
 </br></br>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lope7&show_icons=true&locale=en&layout=compact" alt="lope7" />
 </a> &nbsp;
