@@ -63,10 +63,10 @@
     </a>
   </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lope7&show_icons=true&locale=en&layout=compact" alt="lope7" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lope7&show_icons=true&locale=en&layout=compact" alt="lope7" />
 </a> &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lope7&show_icons=true&locale=en" alt="lope7" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lope7&show_icons=true&locale=en" alt="lope7" />
 </a>
 </br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
