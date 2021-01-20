@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm lope martínez</h1>
+<h1 align="center">Hi, I'm Lope Martínez</h1>
 <h3 align="center">economist & JR developer</h3>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" /></br>
 
