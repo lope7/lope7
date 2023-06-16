@@ -11,10 +11,9 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lopemaal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@lopemaal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lope-mart%C3%ADnez-alcal%C3%A1-24aa45111/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lope martínez alcalá" height="30" width="40" /></a>
-<a href="https://www.facebook.com/lope.martinez.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lope martínez alcalá" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lopemartinez_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@lopemartinez_" height="30" width="40" /></a>
+<a href="https://twitter.com/@lopemaal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="@lopemaal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lope-mart%C3%ADnez-alcal%C3%A1-24aa45111/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="lope martínez alcalá" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lope.martinez.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="lope martínez alcalá" height="30" width="40" /></a>
 <a href="https://discord.gg/lope®#4360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lope®#4360" height="30" width="40" /></a>
 </p>
 </br>
