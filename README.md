@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lope Martínez</h1>
-<h3 align="center">Backend Developer & Economist</h3>
+<h3 align="center">Backend Developer</h3>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" /></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lope7&label=Profile%20views&color=0e75b6&style=flat" alt="lope7" /> </p>
